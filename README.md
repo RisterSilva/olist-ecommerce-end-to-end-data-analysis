@@ -101,8 +101,6 @@ https://app.powerbi.com/view?r=eyJrIjoiMjI1YjFhMzgtZGFiOC00YTk0LThkYjgtZWMxMzA1Y
 - Data Analytics
 - Business Intelligence
 
----
 
-## 📁 Estrutura do Repositório
 
 
